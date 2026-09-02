@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./profile-banner.png" alt="Welcome to Junnyeop's GitHub" width="100%" />
+  <img src="./profile.png" alt="Welcome to Junnyeop's GitHub" width="100%" />
 </div>
 
 <br />
